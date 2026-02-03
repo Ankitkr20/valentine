@@ -151,7 +151,7 @@ const ValentinePage = () => {
             Yay! I knew it! 💖✨
           </h1>
           <img
-            src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif"
+            src="https://res.cloudinary.com/dcxnaeidc/image/upload/v1770123687/a41a7a9d-35a9-4ca1-ae0d-17649273bcaf_gaw8lv.jpg"
             alt="Celebration"
             className="w-72 h-72 rounded-3xl shadow-2xl mx-auto"
           />
